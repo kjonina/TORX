@@ -17,19 +17,19 @@ However, the data became very useful in other ways:
 
 - Using DUV datasest, a simple dataset was created for each year to establish the start date of each race for each year. 
 
-![DUV Start Date](https://github.com/kjonina/Tor_Des_Geants/Methodology Pictures/DUV Start Date.PNG)
+![DUV Start Date](https://github.com/kjonina/Tor_Des_Geants/blob/main/Methodology%20Pictures/DUV%20Start%20Date.PNG)
 
-![DUV D#](https://github.com/kjonina/Tor_Des_Geants/Methodology Pictures/DUV D#.PNG)
+![DUV D#](https://github.com/kjonina/Tor_Des_Geants/blob/main/Methodology%20Pictures/DUV%20D%23.PNG)
 
 ### Timetable - Cut-offs/ Elevation / Distance
 Standard excel file was downloaded from the website to get info on the cut-offs, elevation and distances. 
 
-![Timetable data original](https://github.com/kjonina/Tor_Des_Geants/Methodology Pictures/TOR330 Timetable Original.PNG)
+![Timetable data original](https://github.com/kjonina/Tor_Des_Geants/blob/main/Methodology%20Pictures/TOR330%20Timetable%20Original.PNG)
 
 Manual cleaning in Excel was conducted to make it a bit more readable.
 (Again, it's possible to clean the dataset in Python but it's just be easier to clean with excel.
 
-![Timetable data clean](https://github.com/kjonina/Tor_Des_Geants/Methodology Pictures/TOR330 Timetable Clean.PNG)
+![Timetable data clean](https://github.com/kjonina/Tor_Des_Geants/blob/main/Methodology%20Pictures/ITRA_DUV_TOR_rows%20comparison.PNG)
 
 D3 is different every year so dates from DUV dataset were used to accurately get the dates.
 
@@ -41,11 +41,11 @@ I must admit that I thought this would be cleaning and analysis would be A BREEZ
 #### Rows in the dataset
 Number of rows in DUV and ITRA (each line in each dataset was one finisher) should that there were errors to look out for in 100x100trail dataset that was scraped!
 
-![Nubmer of rows in each DUV, ITRA and 100x100trail](https://github.com/kjonina/Tor_Des_Geants/Methodology Pictures/ITRA_DUV_TOR_rows comparison.png)
+![Nubmer of rows in each DUV, ITRA and 100x100trail](https://github.com/kjonina/Tor_Des_Geants/blob/main/Methodology%20Pictures/ITRA_DUV_TOR_rows%20comparison.PNG
 Running the data in Python, showed that in 2021 there were 3 extra participants labelled as finished in the 100x100trail, in 2023  has 9 partipants and in 2024 has 3 participants with the same error.
 In 2022, it looked like a similar issue, however, when exploring ITRA result further, it clear that the number of finishers (at Courmayer) that were submitted to ITRA and DUV were  the same.  
 
-![Nubmer of rows in each ITRA](https://github.com/kjonina/Tor_Des_Geants/Methodology Pictures/ITRA_2022_finishers.png)
+![Nubmer of rows in each ITRA](https://github.com/kjonina/Tor_Des_Geants/blob/main/Methodology%20Pictures/ITRA_2022_finishers.PNG)
 
 This means that we will have to go and look for those individuals who were incorrectly labelled as finished.
 
