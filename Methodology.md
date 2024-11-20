@@ -29,7 +29,7 @@ Standard excel file was downloaded from the website to get info on the cut-offs,
 Manual cleaning in Excel was conducted to make it a bit more readable.
 (Again, it's possible to clean the dataset in Python but it's just be easier to clean with excel.
 
-![Timetable data clean](https://github.com/kjonina/Tor_Des_Geants/blob/main/Methodology%20Pictures/ITRA_DUV_TOR_rows%20comparison.PNG)
+![Timetable data clean](https://github.com/kjonina/Tor_Des_Geants/blob/main/Methodology%20Pictures/TOR330%20Timetable%20Clean.PNG)
 
 D3 is different every year so dates from DUV dataset were used to accurately get the dates.
 
@@ -41,7 +41,7 @@ I must admit that I thought this would be cleaning and analysis would be A BREEZ
 #### Rows in the dataset
 Number of rows in DUV and ITRA (each line in each dataset was one finisher) should that there were errors to look out for in 100x100trail dataset that was scraped!
 
-![Nubmer of rows in each DUV, ITRA and 100x100trail](https://github.com/kjonina/Tor_Des_Geants/blob/main/Methodology%20Pictures/ITRA_DUV_TOR_rows%20comparison.PNG
+![Nubmer of rows in each DUV, ITRA and 100x100trail](https://github.com/kjonina/Tor_Des_Geants/blob/main/Methodology%20Pictures/ITRA_DUV_TOR_rows%20comparison.PNG)
 Running the data in Python, showed that in 2021 there were 3 extra participants labelled as finished in the 100x100trail, in 2023  has 9 partipants and in 2024 has 3 participants with the same error.
 In 2022, it looked like a similar issue, however, when exploring ITRA result further, it clear that the number of finishers (at Courmayer) that were submitted to ITRA and DUV were  the same.  
 
