@@ -96,7 +96,9 @@ This is different to issues of wrongly labelling as retired, case of HBG.
 
 (picutre) show example of HBG.
 
-It was decided to save an excel file of all DNFs for each year and manually explore the teleportation issue. 
+It was decided to save an excel file of all DNFs for each year and manually explore the teleportation issue.
+
+![Examples of TELEPORTATION](https://github.com/kjonina/Tor_Des_Geants/blob/main/Methodology%20Pictures/TOR330_Issues with TELEPORTATION.PNG)
 
 #### Missing times
 There were also some participants who had missing times for different checkpoints. 
@@ -110,6 +112,8 @@ This made it difficult to explore the times between checkpoints.
 
 (picutre) show missing values with FINISHERS. 
 
+
+![Examples of missing values](https://github.com/kjonina/Tor_Des_Geants/blob/main/Methodology%20Pictures/TOR330_Issues with FINISHERS MISSING VALUES.PNG)
 
 
 It makes sense to focus on the analysis from life base to life base. 
