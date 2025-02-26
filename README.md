@@ -1,7 +1,6 @@
-# Tor_Des_Geants
+# TORX
 
-
-### The Obsession
+### Tor Des Géants | TOR330 - The Obsession
 
 I found out about Tor Des Géants in 2018. Of course, like everyone who ever head of TOR330, I was mesmarised by the whole race. 
 
@@ -12,8 +11,7 @@ In 2025, I am in for the lottery, chasing that euphoric feeling of the finish th
 As many different athelete patiently wait for the lottery to be concluded, I decided to use my data science knowledge to some good, and answers some of the burning questions and myths about the race.
 
 
-
-### The Myths
+### Tor Des Géants | TOR330 - The Myths
 
 As I was preparing for TOR330, I heard a lot of folktales and myths.
 
