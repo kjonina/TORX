@@ -5,9 +5,7 @@ Methodology.md
 
 # Ignoring Tableau files
 /TOR330.twb Files
-TOR330.twb
-TOR450.twb
-~TOR330__13600.twbr
-~TOR330__14484.twbr
+*.twb
+*.twbr
 
-
+.ipynb_checkpoints
