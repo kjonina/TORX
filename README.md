@@ -55,3 +55,9 @@ https://100x100trail.com/json/TOR3302024.json
 
 Timetable - Cut-offs/ Elevation / Distance
 https://www.torxtrail.com/it/content/downloads
+
+
+### Acknowledgements
+
+Thanks to Fabio Baltiere for helping me figure out with JSON file :)
+https://github.com/fabiobaltieri
