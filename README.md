@@ -26,6 +26,13 @@ Data such as Name, Nationality and Age was collected from DUV, ITRA and TORX Liv
 
 All the information that was used for this analysis was all collected from DUV, ITRA and TORX Live. 
 
+
+## [TORX | Tor Des Géants Report](http://public.tableau.com/profile/api/publish/TOR330/TOR330)
+
+Busting TOR330 myths!
+
+<img src='https://github.com/kjonina/kjonina/blob/master/icons/TOR330_Waves.png'></a>
+
 ### References
 DUV-Statistics
 
