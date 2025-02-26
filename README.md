@@ -59,5 +59,5 @@ https://www.torxtrail.com/it/content/downloads
 
 ### Acknowledgements
 
-Thanks to Fabio Baltiere for helping me figure out with JSON file :)
+Thanks to Fabio Baltiere for helping me how to effective and efficiently scrape the TORX LIVE data using JSON file :)
 https://github.com/fabiobaltieri
