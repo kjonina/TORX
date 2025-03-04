@@ -1,0 +1,7 @@
+#	Runner	Time	Race	Age	Gender	Nationality
+1	 BOHARD Patrick	80:20:35	51	M	 FRA
+2	 Galeati Gianluca	80:44:34	32	M	 ITA
+3	 LE SAUX Christophe	81:19:25	43	M	 FRA
+4	 MATHIEU Jean Claude	82:40:23	52	M	 FRA
+5	 Ono Masahiro	83:39:11	34	M	 JPN
+6	 CRIADO TOCA Pablo	87:15:14	39	M	 ESP

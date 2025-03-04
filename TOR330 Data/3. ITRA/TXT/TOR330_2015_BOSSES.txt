@@ -1,0 +1,5 @@
+#	Runner	Time	Race 	Age	Gender	Nationality
+7	 PEREZ LOPEZ Oscar	80:18:33 42	M	 ESP
+8	 MOCHIZUKI Shogo	80:43:22	38	M	 JPN
+9	 Kienzl Peter	80:59:29	40	M	 ITA
+10	 CERNUDA ALDECOA Julio	82:02:05	35	M	 ESP
