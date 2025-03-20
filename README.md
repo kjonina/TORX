@@ -6,6 +6,8 @@ I found out about Tor Des Géants in 2018. Of course, like everyone who ever hea
 
 In 2023, I was fortunate enough to make it back in one piece to Courmayeur, crossing the finish line with four French men, who metaphorically dragged me up Col Malatra (last climb) with their enthuasism and 'WAZUH' screams!
 
+<img src='https://github.com/kjonina/kjonina/blob/master/icons/finish_4.jpg'></a>
+
 ### Tor Des Géants | The Myths
 
 As I was preparing for TOR330, I heard a lot of folktales and myths.
