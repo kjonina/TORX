@@ -6,12 +6,7 @@ I found out about Tor Des Géants in 2018. Of course, like everyone who ever hea
 
 In 2023, I was fortunate enough to make it back in one piece to Courmayeur, crossing the finish line with four French men, who metaphorically dragged me up Col Malatra (last climb) with their enthuasism and 'WAZUH' screams!
 
-In 2025, I am in for the lottery, chasing that euphoric feeling of the finish that is very hard to replicate. 
-
-As many different athelete patiently wait for the lottery to be concluded, I decided to use my data science knowledge to some good, and answers some of the burning questions and myths about the race.
-
-
-### Tor Des Géants | TOR330 - The Myths
+### Tor Des Géants | The Myths
 
 As I was preparing for TOR330, I heard a lot of folktales and myths.
 
@@ -29,9 +24,7 @@ All the information that was used for this analysis was all collected from DUV, 
 
 ## [TORX | Tor Des Géants Report](http://public.tableau.com/profile/api/publish/TOR330/TOR330)
 
-Busting TOR330 myths!
-
-<img src='https://github.com/kjonina/kjonina/blob/master/icons/TOR330_Waves.png'></a>
+<img src='https://github.com/kjonina/kjonina/blob/master/icons/ITRA_DNF_colourblind.png'></a>
 
 ### References
 DUV-Statistics
