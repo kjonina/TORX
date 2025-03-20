@@ -8,6 +8,8 @@ Methodology.md
 /TOR330.twb Files
 *.twb
 *.twbr
+*.twbx
+
 
 .ipynb_checkpoints
 

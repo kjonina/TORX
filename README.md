@@ -22,7 +22,7 @@ Data such as Name, Nationality and Age was collected from DUV, ITRA and TORX Liv
 All the information that was used for this analysis was all collected from DUV, ITRA and TORX Live. 
 
 
-## [TORX | Tor Des Géants Report](http://public.tableau.com/profile/api/publish/TOR330/TOR330)
+## [Tor Des Géants Report](http://public.tableau.com/profile/api/publish/TOR330/TOR330)
 
 <img src='https://github.com/kjonina/kjonina/blob/master/icons/ITRA_DNF_colourblind.png'></a>
 
