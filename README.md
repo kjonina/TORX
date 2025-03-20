@@ -1,6 +1,6 @@
 # TORX
 
-### Tor Des Géants | TOR330 - The Obsession
+### Tor Des Géants | The Obsession
 
 I found out about Tor Des Géants in 2018. Of course, like everyone who ever head of TOR330, I was mesmarised by the whole race. 
 
@@ -54,3 +54,7 @@ https://www.torxtrail.com/it/content/downloads
 
 Thanks to Fabio Baltieri for helping me how to effective and efficiently scrape the TORX LIVE to retrieve the JSON file data :)
 https://github.com/fabiobaltieri
+
+### Abbreviations
+
+TOR330 is also used to describe Tor Des Géants. TORX is the family of races that TOR330 is part of, which includes TOR450 (Tor Des Glacier), TOR130 (Tot Dret), TOR100 and TOR30!
