@@ -1,4 +1,4 @@
-#	Runner	Time	Race	Age	Gender	Nationality
+#	Runner	Time	Age	Gender	Nationality
 74	 MARIN Janne	105:57:31	43	M	 FIN
 75	 PROSSEN Francesco	106:04:11	46	M	 ITA
 76	 RUIZ GARCIA Juan Antonio	106:04:16	32	M	 ESP

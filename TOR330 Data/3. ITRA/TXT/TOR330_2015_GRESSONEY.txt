@@ -1,4 +1,4 @@
-#	Runner	Time	Race	Age	Gender	Nationality
+#	Runner	Time	Age	Gender	Nationality
 252	 ZANELLA Rudj	71:51:00	41	M	 ITA
 253	 GRIESSBACH Denis	73:16:00	41	M	 GER
 254	 GUAZZO Raffaele	73:22:00	50	M	 ITA
