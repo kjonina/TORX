@@ -1,0 +1,1303 @@
+{
+    "gara_di_preiscrizione": true,
+    "preiscrizione_per_gara": null,
+    "preiscrizione_per_questa_gara": [
+        {
+            "id": 1099,
+            "name": "PRE-REGISTRATION TOR330"
+        }
+    ],
+    "stats": {
+        "iscritti": 1207,
+        "gps": 341,
+        "gps_incasso": 112200,
+        "num_refund": 1113,
+        "refund_total": 44214,
+        "senza_certificato": 254,
+        "senza_liberatoria": 24,
+        "pettorali_consegnati": 1112,
+        "nazioni_presenti": 102,
+        "tesserati": 1207,
+        "maschi": 1049,
+        "femmine": 158,
+        "nazioni_rappresentate": [
+            {
+                "nazione": "it",
+                "tot": 330,
+                "nazione_iso": "it"
+            },
+            {
+                "nazione": "fr",
+                "tot": 198,
+                "nazione_iso": "fr"
+            },
+            {
+                "nazione": "jp",
+                "tot": 52,
+                "nazione_iso": "jp"
+            },
+            {
+                "nazione": "cn",
+                "tot": 51,
+                "nazione_iso": "cn"
+            },
+            {
+                "nazione": "gb",
+                "tot": 48,
+                "nazione_iso": "gb"
+            },
+            {
+                "nazione": "us",
+                "tot": 46,
+                "nazione_iso": "us"
+            },
+            {
+                "nazione": "es",
+                "tot": 43,
+                "nazione_iso": "es"
+            },
+            {
+                "nazione": "IT",
+                "tot": 32,
+                "nazione_iso": "it"
+            },
+            {
+                "nazione": "FR",
+                "tot": 32,
+                "nazione_iso": "fr"
+            },
+            {
+                "nazione": "de",
+                "tot": 25,
+                "nazione_iso": "de"
+            },
+            {
+                "nazione": "ch",
+                "tot": 23,
+                "nazione_iso": "ch"
+            },
+            {
+                "nazione": "be",
+                "tot": 23,
+                "nazione_iso": "be"
+            },
+            {
+                "nazione": "ca",
+                "tot": 17,
+                "nazione_iso": "ca"
+            },
+            {
+                "nazione": "CH",
+                "tot": 11,
+                "nazione_iso": "ch"
+            },
+            {
+                "nazione": "hk",
+                "tot": 11,
+                "nazione_iso": "hk"
+            },
+            {
+                "nazione": "nl",
+                "tot": 11,
+                "nazione_iso": "nl"
+            },
+            {
+                "nazione": "fi",
+                "tot": 10,
+                "nazione_iso": "fi"
+            },
+            {
+                "nazione": "pl",
+                "tot": 10,
+                "nazione_iso": "pl"
+            },
+            {
+                "nazione": "ie",
+                "tot": 9,
+                "nazione_iso": "ie"
+            },
+            {
+                "nazione": "pt",
+                "tot": 9,
+                "nazione_iso": "pt"
+            },
+            {
+                "nazione": "gr",
+                "tot": 9,
+                "nazione_iso": "gr"
+            },
+            {
+                "nazione": "US",
+                "tot": 8,
+                "nazione_iso": "us"
+            },
+            {
+                "nazione": "JP",
+                "tot": 8,
+                "nazione_iso": "jp"
+            },
+            {
+                "nazione": "CN",
+                "tot": 7,
+                "nazione_iso": "cn"
+            },
+            {
+                "nazione": "ar",
+                "tot": 7,
+                "nazione_iso": "ar"
+            },
+            {
+                "nazione": "th",
+                "tot": 7,
+                "nazione_iso": "th"
+            },
+            {
+                "nazione": "au",
+                "tot": 7,
+                "nazione_iso": "au"
+            },
+            {
+                "nazione": "ro",
+                "tot": 7,
+                "nazione_iso": "ro"
+            },
+            {
+                "nazione": "GB",
+                "tot": 7,
+                "nazione_iso": "gb"
+            },
+            {
+                "nazione": "at",
+                "tot": 6,
+                "nazione_iso": "at"
+            },
+            {
+                "nazione": "br",
+                "tot": 6,
+                "nazione_iso": "br"
+            },
+            {
+                "nazione": "PT",
+                "tot": 5,
+                "nazione_iso": "pt"
+            },
+            {
+                "nazione": "ES",
+                "tot": 5,
+                "nazione_iso": "es"
+            },
+            {
+                "nazione": "cz",
+                "tot": 5,
+                "nazione_iso": "cz"
+            },
+            {
+                "nazione": "kr",
+                "tot": 5,
+                "nazione_iso": "kr"
+            },
+            {
+                "nazione": "no",
+                "tot": 4,
+                "nazione_iso": "no"
+            },
+            {
+                "nazione": "CA",
+                "tot": 4,
+                "nazione_iso": "ca"
+            },
+            {
+                "nazione": "BE",
+                "tot": 4,
+                "nazione_iso": "be"
+            },
+            {
+                "nazione": "HK",
+                "tot": 4,
+                "nazione_iso": "hk"
+            },
+            {
+                "nazione": "PL",
+                "tot": 4,
+                "nazione_iso": "pl"
+            },
+            {
+                "nazione": "se",
+                "tot": 4,
+                "nazione_iso": "se"
+            },
+            {
+                "nazione": "FI",
+                "tot": 3,
+                "nazione_iso": "fi"
+            },
+            {
+                "nazione": "si",
+                "tot": 3,
+                "nazione_iso": "si"
+            },
+            {
+                "nazione": "AU",
+                "tot": 3,
+                "nazione_iso": "au"
+            },
+            {
+                "nazione": "za",
+                "tot": 3,
+                "nazione_iso": "za"
+            },
+            {
+                "nazione": "DE",
+                "tot": 3,
+                "nazione_iso": "de"
+            },
+            {
+                "nazione": "dk",
+                "tot": 3,
+                "nazione_iso": "dk"
+            },
+            {
+                "nazione": "vn",
+                "tot": 3,
+                "nazione_iso": "vn"
+            },
+            {
+                "nazione": "ru",
+                "tot": 2,
+                "nazione_iso": "ru"
+            },
+            {
+                "nazione": "re",
+                "tot": 2,
+                "nazione_iso": "re"
+            },
+            {
+                "nazione": "my",
+                "tot": 2,
+                "nazione_iso": "my"
+            },
+            {
+                "nazione": "hr",
+                "tot": 2,
+                "nazione_iso": "hr"
+            },
+            {
+                "nazione": "sg",
+                "tot": 2,
+                "nazione_iso": "sg"
+            },
+            {
+                "nazione": "AR",
+                "tot": 2,
+                "nazione_iso": "ar"
+            },
+            {
+                "nazione": "pe",
+                "tot": 2,
+                "nazione_iso": "pe"
+            },
+            {
+                "nazione": "lu",
+                "tot": 2,
+                "nazione_iso": "lu"
+            },
+            {
+                "nazione": "mk",
+                "tot": 2,
+                "nazione_iso": "mk"
+            },
+            {
+                "nazione": "ae",
+                "tot": 2,
+                "nazione_iso": "ae"
+            },
+            {
+                "nazione": "rs",
+                "tot": 2,
+                "nazione_iso": "rs"
+            },
+            {
+                "nazione": "nz",
+                "tot": 2,
+                "nazione_iso": "nz"
+            },
+            {
+                "nazione": "id",
+                "tot": 2,
+                "nazione_iso": "id"
+            },
+            {
+                "nazione": "np",
+                "tot": 2,
+                "nazione_iso": "np"
+            },
+            {
+                "nazione": "is",
+                "tot": 2,
+                "nazione_iso": "is"
+            },
+            {
+                "nazione": "mx",
+                "tot": 2,
+                "nazione_iso": "mx"
+            },
+            {
+                "nazione": "NL",
+                "tot": 2,
+                "nazione_iso": "nl"
+            },
+            {
+                "nazione": "IE",
+                "tot": 2,
+                "nazione_iso": "ie"
+            },
+            {
+                "nazione": "BY",
+                "tot": 1,
+                "nazione_iso": "by"
+            },
+            {
+                "nazione": "lv",
+                "tot": 1,
+                "nazione_iso": "lv"
+            },
+            {
+                "nazione": "uy",
+                "tot": 1,
+                "nazione_iso": "uy"
+            },
+            {
+                "nazione": "SK",
+                "tot": 1,
+                "nazione_iso": "sk"
+            },
+            {
+                "nazione": "ve",
+                "tot": 1,
+                "nazione_iso": "ve"
+            },
+            {
+                "nazione": "jo",
+                "tot": 1,
+                "nazione_iso": "jo"
+            },
+            {
+                "nazione": "HU",
+                "tot": 1,
+                "nazione_iso": "hu"
+            },
+            {
+                "nazione": "il",
+                "tot": 1,
+                "nazione_iso": "il"
+            },
+            {
+                "nazione": "EC",
+                "tot": 1,
+                "nazione_iso": "ec"
+            },
+            {
+                "nazione": "sk",
+                "tot": 1,
+                "nazione_iso": "sk"
+            },
+            {
+                "nazione": "sa",
+                "tot": 1,
+                "nazione_iso": "sa"
+            },
+            {
+                "nazione": "ir",
+                "tot": 1,
+                "nazione_iso": "ir"
+            },
+            {
+                "nazione": "GT",
+                "tot": 1,
+                "nazione_iso": "gt"
+            },
+            {
+                "nazione": "SG",
+                "tot": 1,
+                "nazione_iso": "sg"
+            },
+            {
+                "nazione": "AT",
+                "tot": 1,
+                "nazione_iso": "at"
+            },
+            {
+                "nazione": "NZ",
+                "tot": 1,
+                "nazione_iso": "nz"
+            },
+            {
+                "nazione": "lt",
+                "tot": 1,
+                "nazione_iso": "lt"
+            },
+            {
+                "nazione": "ee",
+                "tot": 1,
+                "nazione_iso": "ee"
+            },
+            {
+                "nazione": "sm",
+                "tot": 1,
+                "nazione_iso": "sm"
+            },
+            {
+                "nazione": "cr",
+                "tot": 1,
+                "nazione_iso": "cr"
+            },
+            {
+                "nazione": "PK",
+                "tot": 1,
+                "nazione_iso": "pk"
+            },
+            {
+                "nazione": "tr",
+                "tot": 1,
+                "nazione_iso": "tr"
+            },
+            {
+                "nazione": "ba",
+                "tot": 1,
+                "nazione_iso": "ba"
+            },
+            {
+                "nazione": "CZ",
+                "tot": 1,
+                "nazione_iso": "cz"
+            },
+            {
+                "nazione": "ma",
+                "tot": 1,
+                "nazione_iso": "ma"
+            },
+            {
+                "nazione": "gt",
+                "tot": 1,
+                "nazione_iso": "gt"
+            },
+            {
+                "nazione": "co",
+                "tot": 1,
+                "nazione_iso": "co"
+            },
+            {
+                "nazione": "ID",
+                "tot": 1,
+                "nazione_iso": "id"
+            },
+            {
+                "nazione": "bg",
+                "tot": 1,
+                "nazione_iso": "bg"
+            },
+            {
+                "nazione": "BG",
+                "tot": 1,
+                "nazione_iso": "bg"
+            },
+            {
+                "nazione": "DK",
+                "tot": 1,
+                "nazione_iso": "dk"
+            },
+            {
+                "nazione": "in",
+                "tot": 1,
+                "nazione_iso": "in"
+            },
+            {
+                "nazione": "gf",
+                "tot": 1,
+                "nazione_iso": "gf"
+            },
+            {
+                "nazione": "MK",
+                "tot": 1,
+                "nazione_iso": "mk"
+            },
+            {
+                "nazione": "GR",
+                "tot": 1,
+                "nazione_iso": "gr"
+            },
+            {
+                "nazione": "hu",
+                "tot": 1,
+                "nazione_iso": "hu"
+            }
+        ],
+        "categorie_rappresentate": [
+            {
+                "categoria": "V1",
+                "tot": 478
+            },
+            {
+                "categoria": "V2",
+                "tot": 393
+            },
+            {
+                "categoria": "SEN",
+                "tot": 230
+            },
+            {
+                "categoria": "V3",
+                "tot": 99
+            },
+            {
+                "categoria": "V4",
+                "tot": 7
+            }
+        ],
+        "da_pagare": 0,
+        "totale_vendita": 1165646
+    },
+    "campi_avanzati": {
+        "id": 812,
+        "gara_id": 1034,
+        "titolo_mobile": "TOR330",
+        "crono": true,
+        "evento_test": false,
+        "nascondi_lista_iscritti": false,
+        "gara_assicurata": true,
+        "opzioni_assicurazione": "OPT\u2011IN",
+        "productcode": "PKG",
+        "costo_refund_protect": 15,
+        "event_protect": false,
+        "clausole_vessatorie": "<ul><li><strong>ART 1</strong> PREMESSA - FOREWORD - AVANT-PROPOS</li><li><strong>ART 6</strong> QUOTA DI ISCRIZIONE&nbsp;- REGISTRATION FEES - FRAIS D\u2019INSCRIPTION</li><li><strong>ART 7.2.</strong> PETTORALI SOLIDALI - CHARITY RACE NUMBERS - DOSSARDS SOLIDAIRES</li><li><strong>ART 7.3.</strong> ECO-PETTORALI - ECO RACE NUMBERS - \u00c9CO-DOSSARDS</li><li><strong>ART 8</strong> MODALIT\u00c0 DI ISCRIZIONE - HOW TO REGISTER - MODALIT\u00c9S D\u2019INSCRIPTION</li><li><strong>ART 10</strong> RIMBORSO QUOTE DI ISCRIZIONE (RIMBORSO ORDINARIO, PROGRAMMA REFUND PROTECT DI PROTECT GROUP, RIMBORSI NON CUMULABILI)</li><li>REFUND OF REGISTRATION FEES (ORDINARY REFUND, REFUND PROTECT PROGRAM BY THE PROTECT GROUP, NON-CUMULATIVE REFUNDS)</li><li>REMBOURSEMENT DES FRAIS D\u2019INSCRIPTION (REMBOURSEMENT ORDINAIRE, PROGRAMME REFUND PROTECT DE PROTECT GROUP, REMBOURSEMENTS NON CUMULABLES)</li><li><strong>ART 13</strong> SEMI AUTOSUFFICIENZA - SEMI-SELF-SUFFICIENCY - SEMI-AUTONOMIE</li><li><strong>ART 14</strong> EQUIPAGGIAMENTO - EQUIPMENT - \u00c9QUIPEMENT</li><li><strong>ART 15</strong> SICUREZZA ED ASSISTENZA MEDICA - SAFETY AND MEDICAL ASSISTANCE - S\u00c9CURIT\u00c9 ET ASSISTANCE M\u00c9DICALE</li><li><strong>ART 25</strong> MODIFICHE DEL PERCORSO O DELLE BARRIERE ORARIE - ANNULLAMENTO DELLA CORSA - CHANGES TO THE ROUTE AND TIME BARRIERS - CANCELLATION OF THE RACE - MODIFICATIONS DU PARCOURS OU DES BARRI\u00c8RES HORAIRES - ANNULATION DE LA COURSE</li><li><strong>ART 31</strong> DIRITTO ALL\u2019IMMAGINE - IMAGE RIGHTS - DROIT \u00c0 L\u2019IMAGE</li><li><strong>ART 32</strong> PRIVACY - POLITIQUE DE CONFIDENTIALIT\u00c9</li></ul><p><br></p><p><strong>ITA - GPS al TOR330 (art 12.2)</strong></p><p>Il GPS \u00e8 facoltativo e dunque disponibile solo su specifica richiesta: la volont\u00e0 di noleggiare il dispositivo, al costo di \u20ac100, va indicata al momento dell'iscrizione, contestualmente al suo pagamento.</p><p>Al momento della consegna del dispositivo verr\u00e0 inoltre richiesta una cauzione di \u20ac100 che non sar\u00e0 restituita in caso di mancata restituzione dello stesso.</p><p><br></p><p><strong>ENG - TOR330 GPS tracker&nbsp;(art 12.2)</strong></p><p>The GPS is optional and therefore only available on specific request: the wish to hire the device, at a cost of \u20ac100, must be indicated at the time of registration, at the same time as payment.</p><p>Upon delivery of the device, a deposit of \u20ac100 will also be required, which will not be refunded in case the device is not returned.</p><p><br></p><p><strong>\ufeffFRA - TOR330 GPS&nbsp;(art 12.2)</strong></p><p>Le GPS est optionnel et donc disponible uniquement sur demande sp\u00e9cifique: le souhait de louer l'appareil, au prix de \u20ac100, doit \u00eatre indiqu\u00e9 au moment de l'inscription, en m\u00eame temps que le paiement.</p><p>\u00c0 la livraison de l'appareil, un d\u00e9p\u00f4t de \u20ac100 sera requis, qui ne sera pas rembours\u00e9 en cas de non-retour de l'appareil.</p>",
+        "wording": "<p><strong>[ITALIANO]</strong></p><p>Forniamo a tutti i clienti termini di rimborso evoluti su tutte le nostre prenotazioni. Per visualizzare la nostra serie completa di termini rimborsabili estesi&nbsp;<a href=\"https://refundable.me/extended/vdatrailers/\" rel=\"noopener noreferrer\" target=\"_blank\">clicca qui</a>.</p><p>Se non sei in grado di partecipare all'evento a causa di circostanze impreviste al di fuori del tuo controllo, potresti avere diritto a un rimborso - consulta i nostri Termini e condizioni rimborsabili cliccando sul link sopra. Per richiedere un rimborso&nbsp;<a href=\"https://refunds.refundprotect.co/\" rel=\"noopener noreferrer\" target=\"_blank\">clicca qui</a>&nbsp;e inserisci il codice REFERENCE che troverai nella mail di conferma.</p><p>Se il motivo del rimborso non si trova nei Termini e condizioni rimborsabili di cui sopra, si prega di contattare la&nbsp;<a href=\"mailto:info@vdatrailers.it\" rel=\"noopener noreferrer\" target=\"_blank\">segreteria</a>.</p><p>&nbsp;</p><p><strong>[ENGLISH]</strong></p><p>We provide all customers enhanced refund terms on all our bookings. To view our full set of extended Refundable terms please&nbsp;<a href=\"https://refundable.me/extended/en/\" rel=\"noopener noreferrer\" target=\"_blank\">click here</a>.</p><p>If you are unable to attend your booking due to unforeseen circumstances outside of your control you may be entitled to a refund \u2013 please see our Refundable Terms and Conditions above. To apply for a refund please&nbsp;<a href=\"https://refunds.refundprotect.co/\" rel=\"noopener noreferrer\" target=\"_blank\">apply here</a>&nbsp;and use the reference code you will find in the confirmation email.</p><p>Should your reason for refund not be found in the Refundable Terms and Conditions above, please get in contact with our standard&nbsp;<a href=\"mailto:info@vdatrailers.it\" rel=\"noopener noreferrer\" target=\"_blank\">customer service team</a>.</p><p>&nbsp;</p><p><strong>[FRANCAIS]</strong></p><p>Nous offrons \u00e0 tous nos clients des conditions de remboursement am\u00e9lior\u00e9es pour toutes nos r\u00e9servations. Pour consulter notre ensemble complet de conditions remboursables \u00e9tendues,&nbsp;<a href=\"https://refundable.me/extended/fr/\" rel=\"noopener noreferrer\" target=\"_blank\">cliquez ici</a>.</p><p>Si vous ne pouvez pas assister \u00e0 votre r\u00e9servation en raison de circonstances impr\u00e9vues ind\u00e9pendantes de votre volont\u00e9, vous pourriez avoir droit \u00e0 un remboursement - veuillez consulter nos Conditions g\u00e9n\u00e9rales remboursables ci-dessus. Pour demander un remboursement,&nbsp;<a href=\"https://refunds.refundprotect.co/\" rel=\"noopener noreferrer\" target=\"_blank\">cliquez ici</a>.</p><p>Si le motif du remboursement ne figure pas dans les conditions g\u00e9n\u00e9rales de remboursement ci-dessus, veuillez contacter notre&nbsp;<a href=\"mailto:info@vdatrailers.it\" rel=\"noopener noreferrer\" target=\"_blank\">service client\u00e8le standard</a>.</p>",
+        "wording_x_email": "<h3><strong>[ITA] - TERMINI PER I RIMBORSI</strong></h3><h3><strong>[ENG] - REFUNDABLE WORDING</strong></h3><h3><strong>[FRA] - LIBELL\u00c9 REMBOURSABLE</strong></h3><p><br></p><p><strong>[ITALIANO]</strong></p><p>Hai selezionato un acquisto rimborsabile, quindi se non puoi partecipare all'evento a causa di circostanze impreviste al di fuori del tuo controllo, potresti avere diritto a un rimborso - consulta&nbsp;<a href=\"https://refundable.me/extended/vdatrailers/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>i nostri termini e condizioni</strong></a>. Per richiedere un rimborso,&nbsp;<a href=\"https://refunds.refundprotect.co/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>fare domanda qui</strong></a>&nbsp;e inserire il codice&nbsp;<strong>REFERENCE</strong>&nbsp;nel modulo per accedere alla prenotazione.</p><p><br></p><p><strong>[ENGLISH]</strong></p><p>You have selected a Refundable purchase therefore if you are unable attend the event due to unforeseen circumstances outside of your control you may be entitled to a refund - please see our&nbsp;<a href=\"https://refundable.me/extended/en/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>terms and conditions</strong></a>. To apply for a refund please&nbsp;<a href=\"https://refunds.refundprotect.co/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>apply here</strong></a>&nbsp;and use the following&nbsp;<strong>REFERENCE</strong>&nbsp;in the form to access your booking.</p><p><br></p><p><strong>[FRANCAIS]</strong></p><p>Vous avez s\u00e9lectionn\u00e9 un achat remboursable, donc si vous n\u2019\u00eates pas en mesure de participer \u00e0 l\u2019\u00e9v\u00e9nement&nbsp;en raison de circonstances impr\u00e9vues ind\u00e9pendantes de votre volont\u00e9, vous pourriez avoir droit \u00e0 un&nbsp;remboursement.&nbsp;<a href=\"https://refundable.me/extended/fr/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Veuillez consulter nos Conditions g\u00e9n\u00e9rales</strong></a>. Veuillez demander un&nbsp;<a href=\"https://refunds.refundprotect.co/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>remboursement ici</strong></a>&nbsp;et&nbsp;acc\u00e9dez \u00e0 votre r\u00e9servation en utilisant la&nbsp;<strong>REFERENCE</strong>&nbsp;suivante dans le formulaire.</p>",
+        "gps_esterno": true,
+        "gps_esterno_costo": 100,
+        "gps_esterno_descrizione": "<p><strong>ITA - GPS al TOR330</strong><strong>&nbsp;(art 12.2)</strong></p><p>Il GPS \u00e8 facoltativo e dunque disponibile solo su specifica richiesta: la volont\u00e0 di noleggiare il dispositivo, al costo di \u20ac100, va indicata al momento dell'iscrizione, contestualmente al suo pagamento.<br>Al momento della consegna del dispositivo verr\u00e0 inoltre richiesta una cauzione di \u20ac100 che non sar\u00e0 restituita in caso di mancata restituzione dello stesso.</p><hr><p><strong>ENG - TOR330 GPS tracker</strong><strong>&nbsp;(art 12.2)</strong></p><p>The GPS is optional and therefore only available on specific request: the wish to hire the device, at a cost of \u20ac100, must be indicated at the time of registration, at the same time as payment.<br>Upon delivery of the device, a deposit of \u20ac100 will also be required, which will not be refunded in case the device is not returned.</p><hr><p><strong>FRA - TOR330 GPS</strong><strong>&nbsp;(art 12.2)</strong></p><p>Le GPS est optionnel et donc disponible uniquement sur demande sp\u00e9cifique: le souhait de louer l'appareil, au prix de \u20ac100, doit \u00eatre indiqu\u00e9 au moment de l'inscription, en m\u00eame temps que le paiement.<br>\u00c0 la livraison de l'appareil, un d\u00e9p\u00f4t de \u20ac100 sera requis, qui ne sera pas rembours\u00e9 en cas de non-retour de l'appareil.</p>",
+        "beebee_json": null,
+        "url_static_ranking": null,
+        "url_sponsor": null,
+        "geojson": "https://live.torxtrail.com/geojson/TOR330-2025.geojson",
+        "traccia_kml": null,
+        "gara_con_preiscrizione": true,
+        "pax": 0,
+        "link_regolamento": "https://www.torxtrail.com/en/content/regulations-torx-2025",
+        "link_al_pagamento": null,
+        "links": null,
+        "html_embed": null,
+        "max_iscritti": 1300,
+        "apertura_iscrizioni": "2025-04-05T10:00:00+00:00",
+        "chiusura_iscrizioni": "2025-04-20T21:59:00+00:00",
+        "trail_type": "Trail Ultra",
+        "start_time": "2025-09-14T10:00+02:00",
+        "distance": 330,
+        "elevation": 24000,
+        "time_limit": 150,
+        "itra": 6,
+        "nr_componenti_team": 0,
+        "moltiplicatore": "0",
+        "background_color": null,
+        "heading_color": null,
+        "accetta_iscritti_pax": true,
+        "pettorali_solidali": false,
+        "solidale_price": 0,
+        "solidale_description": null,
+        "solidale_max_iscritti": 20,
+        "pettorali_eco": false,
+        "eco_description": null,
+        "eco_price": 0,
+        "eco_max_iscritti": 0,
+        "eco_iscrizioni_on": null,
+        "eco_iscrizioni_off": null,
+        "solidale_iscrizioni_on": null,
+        "solidale_iscrizioni_off": null,
+        "descrizione_gara": "<p style=\"text-align: center;\"><a href=\"https://friendly.torxtrail.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255); color: var(--color-navy-blue);\"><img src=\"https://data.beebeeboard.com/torxtrail/122625/1099/TORX_2025_banner_Book_your_stay_900x294pxl.gif\" width=\"300\"></a></p>",
+        "liberatoria_it": "<p><strong>Dichiarazione assunzione del rischio ed esonero di responsabilit\u00e0</strong></p><p>&nbsp;</p><p><strong>Dopo aver attentamente letto il regolamento della manifestazione ed a conoscenza delle difficolt\u00e0 del percorso, nonch\u00e9 consapevole dei rischi per l\u2019incolumit\u00e0 personale connessi alla competizione, con la firma del presente modulo dichiaro che:</strong></p><ul><li>sono cosciente della lunghezza e della specificit\u00e0 della prova che si sviluppa in montagna, in possibili condizioni climatiche difficili (notte, freddo, vento, pioggia, neve), e che \u00e8 necessaria una preparazione ed una reale capacit\u00e0 d\u2019autonomia personale;</li><li>sono informato delle controindicazioni mediche che mi riguardano e che, di conseguenza, sollevo l\u2019organizzazione da qualsiasi tipo di responsabilit\u00e0 per problemi medici che potrebbero accadermi durante la corsa.</li><li>non faccio uso di sostanze dopanti;</li><li>sono consapevole che sottovalutare la preparazione psico-fisica, l\u2019abbigliamento e l\u2019attrezzatura pu\u00f2 portare a conseguenze estreme, anche letali;</li><li>mi impegno a portare con me, durante tutta la durata della competizione, il materiale obbligatorio;</li><li>sono consapevole che i cambiamenti meteorologici in montagna possono essere repentini, localizzati e violenti;</li><li>sono consapevole che in montagna il materiale generalmente utilizzato per il trail running potrebbe non essere adeguato per affrontare le basse temperature, la pioggia, il vento, il fango, la neve e il ghiaccio;</li><li>accetto i controlli del materiale obbligatorio che potranno essere effettuati in ogni momento della corsa e di essere a conoscenza che la Direzione di Gara potr\u00e0 decidere a proprio insindacabile giudizio di fermare i corridori che risulteranno non adeguatamente attrezzati;</li><li>esonero l\u2019organizzazione VDA Trailers s.s.d.r.l., il direttore di gara ed il responsabile del percorso da ogni e qualsiasi responsabilit\u00e0 per danni subiti da cose e persone, compresi infortuni personali e/o morte.</li><li>mi assumo piena ed esclusiva responsabilit\u00e0 per danni eventualmente da me cagionati a terzi o a beni di propriet\u00e0 di terzi.</li><li>esonero da ogni e qualsiasi responsabilita\u0300 PREMIUM MEDICA SRL, il DR. PATACCHINI MARCO, VDA TRAILERS e il personale volontario che presta la propria opera volontaria presso le basi vita per ogni e qualsiasi pregiudizio che dovessi subire durante o in conseguenza delle prestazioni sanitarie, parasanitarie, fisioterapiche e/o di riabilitazione fornite durante la gara.</li><li>autorizzo al trattamento dei miei dati personali per la raccolta di informazioni tecniche relative alle tipologie di prestazioni sanitarie, parasanitarie, fisioterapiche e riabilitative fornite durante le manifestazioni sportive.</li><li>rilascio il mio consenso per la realizzazione di riprese e/o scatti fotografici durante l\u2019attivit\u00e0 svolta dagli operatori presso le basi vita per fini pubblicitari e promozionali.</li><li>Rinuncio espressamente a ogni pretesa e ad ogni diritto d'autore sulle foto scattate durante la gara ed inoltre rinuncio a qualsiasi ricorso contro l'organizzatore ed i suoi partner autorizzati per il libero utilizzo, senza limiti, della mia immagine.</li><li>sono consapevole che \u00e8 espressamente vietato diffondere per fini commerciali e/o promozionali, attraverso qualsiasi mezzo (web, social network, TV, giornali, riviste, ecc.), immagini (video o foto) riprese durante l\u2019evento senza l\u2019autorizzazione scritta da parte dell\u2019Organizzazione. TORX\u00ae, TOR\u00ae, Tor des G\u00e9ants\u00ae, Tor des Glaciers\u2122, Passage au Malatr\u00e0\u2122, Tot Dret\u2122, Cervino-Monte Bianco\u2122, TOR450\u2122, TOR330\u2122, TOR130\u2122, TOR100\u2122, TOR30\u2122 sono marchi di propriet\u00e0 o in uso esclusivo di VDA Trailers. Tutte le comunicazioni inerenti la manifestazione o l\u2019utilizzo di immagini della stessa dovranno essere fatte nel rispetto del nome dell\u2019evento e dei marchi depositati, previo accordo con l\u2019Organizzazione (VDA Trailers s.s.d.r.l.).</li><li>Dichiaro di aver preso visione della Privacy Policy e autorizzo VDA Trailers s.s.d.r.l. trattare i miei dati personali esclusivamente per finalit\u00e0 strumentali alla propria attivit\u00e0 e improntate a principi di onest\u00e0 e liceit\u00e0 secondo quanto previsto dalla normativa vigente.</li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li><li><br></li></ul><p><br></p><p><strong>IMPORTANTE: La versione originale del documento \u00e8 redatta in italiano. In caso di incongruenze o discrepanze con le versioni nelle altre lingue sar\u00e0 la versione italiana ad prevalere sulle altre.</strong></p><p>&nbsp;</p><p><strong>Letto, confermato e sottoscritto&nbsp;</strong></p>",
+        "liberatoria_en": "<p><strong>Liability disclaimer and declaration of assumption of risk</strong></p><p>&nbsp;</p><p><strong>After having carefully read the regulations of the event and having acknowledged the difficulties of the course, and being aware of the risks to personal safety connected with the race, by signing this document I declare:&nbsp;</strong></p><p>&nbsp;</p><p>to be totally aware of the unusual length and peculiarities of the race that takes place in the mountains, in possible difficult climatic conditions (night, cold, wind, rain, snow), and that preparation and real personal autonomy is required;</p><ul><li>I am aware of the medical contraindications that concern me and consequently raise the organization from any kind of responsibility for medical problems that could happen during the race;</li><li>I don't use doping substances;</li><li>I am aware that underestimate the mental and physical training, clothing and equipment can lead to extreme consequences or death;</li><li>I pledge to bring with me, throughout the duration of the competition, the compulsory equipment;</li><li>I am aware&nbsp;that changes in the weather can be sudden and violent in the mountains, and can occur in localised spots;</li><li>I am aware&nbsp;that equipment that is sufficient for trail running in general may not be adequate for the low temperatures, rain, wind, mud, snow and ice that you will find in the mountains;</li><li>I accept the checks on the compulsory equipment, which can be carried out at any time during the race; I am aware that the Race Direction may decide, at its sole discretion, to stop the athletes who are not adequately equipped;</li><li>I exempt the organization VDA Trailers s.s.d.r.l., the Race Director and the Course Manager from any and all liability for damage suffered by me caused by things and people, including personal injury and / or death.</li><li>I take full and exclusive responsibility for any damage I caused to third parties or to property owned by third parties.</li><li>I exempt from any and all liability PREMIUM MEDICA SRL, the DR. PATACCHINI MARCO, VDATRAILERS and the staff who volunteer at the life bases for any and all damage that I may suffer during or as a result of the health, parasanitary, physiotherapy and / or rehabilitation services provided during the race.</li><li>I authorize the processing of my personal data for the collection of technical information relating to the types of health, parasanitary, physiotherapy and rehabilitation services provided during sporting events</li><li>I give my consent for the production of videos and / or photographs during the activity carried out by the operators at the life bases for advertising and promotional purposes.</li><li>I expressly renounce to any claim and to any copyright on pictures taken during the race and in addition I renounce any appeal against the organizer and its authorized partners for the free use, without limits, of my image.</li><li>I am aware that any dissemination for commercial or promotional purposes of photographic or video images captured during the event, via any means (internet, social networks, TV, press, magazines, etc.), without written authorisation from the organisation is prohibited. TORX\u00ae, TOR\u00ae, Tor des G\u00e9ants\u00ae, Tor des Glaciers \u2122, Passage au Malatr\u00e0 \u2122, Tot Dret \u2122, Cervino-Monte Bianco\u2122, TOR450 \u2122, TOR330 \u2122, TOR130 \u2122, TOR100\u2122 and TOR30 \u2122 are trademarks owned or used exclusively by VDA Trailers. Any communication of the event or use of images of it must be done in observance of the name of the event and registered trademarks, subject to agreement by the organisation.</li><li>I declare to have read the Privacy Policy and I authorize VDA Trailers s.s.d.r.l. to treat my personal data exclusively for purposes that are instrumental to its activity and based on principles of honesty and lawfulness in accordance with of the current regulations.</li></ul><p><br></p><p><strong>\ufeffIMPORTANT: The original version of the document is written in Italian. In case of inconsistencies or discrepancies with the versions in other languages, the Italian version will prevail over the others.</strong></p><p>&nbsp;</p><p><strong>Read, confirmed and signed</strong></p><p>&nbsp;</p><p>&nbsp;</p>",
+        "liberatoria_fr": "<p><strong>D\u00e9claration de d\u00e9charge de responsabilit\u00e9</strong></p><p>&nbsp;</p><p><strong>Apr\u00e8s avoir lu attentivement les r\u00e8gles de l\u2019\u00e9v\u00e9nement et conscient des difficult\u00e9s et des risques pour la s\u00e9curit\u00e9 des personnes li\u00e9es \u00e0 la comp\u00e9tition, je d\u00e9clare:</strong></p><ul><li>d\u2019\u00eatre absolument conscient de la longueur du parcours et de ses sp\u00e9cificit\u00e9s de la course qui se d\u00e9veloppe en montagne, dans d'\u00e9ventuelles conditions climatiques difficiles (nuit, froid, vent, pluie, neige), et qu'une pr\u00e9paration et une r\u00e9elle autonomie personnelle sont n\u00e9cessaires ;</li><li>d'\u00eatre renseign\u00e9 sur les contre-indications m\u00e9dicales qui pourraient me concerner et, par cons\u00e9quent, je d\u00e9charge l'organisation de toute responsabilit\u00e9 en cas de probl\u00e8me m\u00e9dical pouvant survenir pendant la course;</li><li>de ne pas utiliser de produit dopant</li><li>d\u2019\u00eatre conscient que sous-estimer la pr\u00e9paration psychophysique, les v\u00eatements et l\u2019\u00e9quipement peut avoir des cons\u00e9quences extr\u00eames, voire fatales!</li><li>Je m'engage \u00e0 apporter le mat\u00e9riel obligatoire avec moi pendant toute la dur\u00e9e de la course;</li><li>d\u2019\u00eatre absolument conscient&nbsp;qu\u2019en montagne les changements m\u00e9t\u00e9orologiques peuvent \u00eatre soudains, localis\u00e9s et violents ;</li><li>d\u2019\u00eatre absolument conscient&nbsp;qu\u2019en montagne, le mat\u00e9riel g\u00e9n\u00e9ralement utilis\u00e9 pour le trail running peut ne pas \u00eatre adapt\u00e9 pour faire face aux basses temp\u00e9ratures, \u00e0 la pluie, au vent, \u00e0 la boue, \u00e0 la neige et \u00e0 la glace;</li><li>J'accepte les contr\u00f4les du \"mat\u00e9riel obligatoire\" qui peuvent \u00eatre effectu\u00e9s \u00e0 tout moment pendant la course et que je suis conscient que la Direction de Course peut d\u00e9cider \u00e0 sa seule discr\u00e9tion d'arr\u00eater les coureurs qui ne sont pas \u00e9quip\u00e9s ad\u00e9quatement;</li><li>J'exon\u00e8re l'organisation de VDA Trailers s.s.d.r.l., le directeur de course et le responsable du parcours de toute responsabilit\u00e9 pour les dommages subis, caus\u00e9s par des choses et des personnes, y compris des blessures et / ou la mort;</li><li>J'assume la responsabilit\u00e9 enti\u00e8re et exclusive de tout dommage caus\u00e9 par moi \u00e0 des tiers ou \u00e0 des biens appartenant \u00e0 des tiers.</li><li>Je d\u00e9gage de toute responsabilit\u00e9 PREMIUM MEDICA SRL, le DR. PATACCHINI MARCO, VDATRAILERS et le personnel b\u00e9n\u00e9vole qui b\u00e9n\u00e9volent leur travail aux bases vie, pour tous les dommages que je pourrais subir pendant ou \u00e0 la suite des services de sant\u00e9, parasanitaires, physioth\u00e9rapie et / ou r\u00e9\u00e9ducation fournis pendant la course.</li><li>J'autorise le traitement de mes donn\u00e9es personnelles pour la collecte d'informations techniques relatives aux types de services de sant\u00e9, parasanitaires, physioth\u00e9rapie et r\u00e9\u00e9ducation fournis lors d'\u00e9v\u00e9nements sportifs.</li><li>Je donne mon consentement pour la r\u00e9alisation de vid\u00e9os et / ou de photographies au cours de l'activit\u00e9 exerc\u00e9e par les op\u00e9rateurs sur les bases de vie \u00e0 des fins publicitaires et promotionnelles.</li><li>Je renonce express\u00e9ment \u00e0 tout droit \u00e0 l'image pendant la course, ainsi qu\u2019\u00e0 tout recours contre l'organisation et ses partenaires, pour l\u2019utilisation d\u2019 image photos et vid\u00e9os , qui me repr\u00e9sentent pendant la course.</li><li>d\u2019\u00eatre conscient que il est express\u00e9ment interdit de diffuser, par quelque moyen que ce soit (Internet, r\u00e9seaux sociaux, t\u00e9l\u00e9vision, journaux, magazines, etc.), \u00e0 des fins commerciales, des images (vid\u00e9os ou photos) prises lors de l\u2019\u00e9v\u00e9nement sans l\u2019autorisation \u00e9crite de l\u2019Organisation (VDA Trailers s.s.d.r.l.). TORX\u00ae, TOR\u00ae, Tor des G\u00e9ants\u00ae, Tor des Glaciers\u2122, Passage au Malatr\u00e0\u2122, Tot Dret\u2122, Cervino-Monte Bianco\u2122, TOR450\u2122, TOR330\u2122, TOR130\u2122, TOR100\u2122 et TOR30\u2122 sont des marques d\u00e9pos\u00e9es d\u00e9tenues ou utilis\u00e9es exclusivement par VDA Trailers. Toutes les communications sur la manifestation ou l\u2019utilisation d\u2019images de celle-ci doivent \u00eatre effectu\u00e9es conform\u00e9ment au nom de l\u2019\u00e9v\u00e9nement et des marques d\u00e9pos\u00e9es, sous r\u00e9serve d\u2019un accord avec l\u2019Organisation.</li><li>Je d\u00e9clare avoir pris connaissance de la Privacy Policy et d\u2019autoriser VDA Trailers s.s.d.r.l. \u00e0 utiliser mes donn\u00e9es personnelles uniquement dans le cadre de son activit\u00e9 et ce de mani\u00e8re l\u00e9gale, conform\u00e9ment \u00e0 la Loi en vigueur.</li></ul><p><br></p><p><strong>\ufeffIMPORTANT: la version originale du document est r\u00e9dig\u00e9e en italien. En cas d'incoh\u00e9rences ou de divergences avec les versions dans d'autres langues, la version italienne pr\u00e9vaudra sur les autres.</strong></p><p>&nbsp;</p><p><strong>Lu et approuv\u00e9</strong></p><p>&nbsp;</p>",
+        "gara_experience": false,
+        "eta_minima": 20,
+        "hide_frontend": false,
+        "special_bib_for": 0,
+        "categorie_gara": [
+            {
+                "active": true,
+                "titolo_mobile": "TOR330",
+                "price": 950,
+                "description": "TOR330 Tor des G\u00e9ants 2025",
+                "max_iscritti": 1300,
+                "iscritti_attuali": 1207
+            },
+            {
+                "active": false,
+                "titolo_mobile": "TOR330 CHARITY BIBS",
+                "price": 0,
+                "description": null,
+                "max_iscritti": 20,
+                "iscritti_attuali": null
+            },
+            {
+                "active": false,
+                "titolo_mobile": "TOR330 ECO BIBS",
+                "price": 0,
+                "description": null,
+                "max_iscritti": 0,
+                "iscritti_attuali": null
+            }
+        ],
+        "cover_url": "torxtrail/122625/1034/TorX_img_rettangolare_ISCRIZIONI330.pngthumb",
+        "cover_type": "png",
+        "cover_name": "TorX_img_rettangolare_ISCRIZIONI330.png"
+    },
+    "postazioni": [
+        {
+            "id": 652,
+            "text": "START",
+            "rank": 1,
+            "quota": "1230",
+            "dislivello": "0",
+            "distanza": "0",
+            "latitudine": "45.79278999008238",
+            "longitudine": "6.971815852448344",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 656,
+            "text": "Baite Youlaz",
+            "rank": 2,
+            "quota": "2036",
+            "dislivello": "1443",
+            "distanza": "12809",
+            "latitudine": "45.743733225390315",
+            "longitudine": "6.939281495288014",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 655,
+            "text": "La Thuile",
+            "rank": 3,
+            "quota": "1468",
+            "dislivello": "1552",
+            "distanza": "18970",
+            "latitudine": "45.715172393247485",
+            "longitudine": "6.950125833973289",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 654,
+            "text": "Rif. Deffeyes",
+            "rank": 4,
+            "quota": "2490",
+            "dislivello": "2739",
+            "distanza": "27835",
+            "latitudine": "45.67549145780504",
+            "longitudine": "6.986017730087042",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 889,
+            "text": "Bivacco Zappelli",
+            "rank": 5,
+            "quota": "2274",
+            "dislivello": "3153",
+            "distanza": "32746",
+            "latitudine": "45.69397347047925",
+            "longitudine": "7.02962382696569",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 892,
+            "text": "Planaval",
+            "rank": 6,
+            "quota": "1562",
+            "dislivello": "3923",
+            "distanza": "42728",
+            "latitudine": "45.67353788763285",
+            "longitudine": "7.08019008859992",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 987,
+            "text": "Valgrisenche IN",
+            "rank": 7,
+            "quota": "1693",
+            "dislivello": "4178",
+            "distanza": "48490",
+            "latitudine": "45.630127592012286",
+            "longitudine": "7.062601922079921",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 995,
+            "text": "Valgrisenche OUT",
+            "rank": 8,
+            "quota": "1693",
+            "dislivello": "4178",
+            "distanza": "48490",
+            "latitudine": "45.630127592012286",
+            "longitudine": "7.062601922079921",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 894,
+            "text": "Rif. Chalet de l'Ep\u00e9e",
+            "rank": 9,
+            "quota": "2370",
+            "dislivello": "4982",
+            "distanza": "54847",
+            "latitudine": "45.58867740444839",
+            "longitudine": "7.060216097161174",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 1003,
+            "text": "Rh\u00eames-Notre-Dame",
+            "rank": 10,
+            "quota": "1732",
+            "dislivello": "5534",
+            "distanza": "62782",
+            "latitudine": "45.56818683631718",
+            "longitudine": "7.117336755618453",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 898,
+            "text": "Eaux Rousses",
+            "rank": 11,
+            "quota": "1679",
+            "dislivello": "6921",
+            "distanza": "78157",
+            "latitudine": "45.567611837759614",
+            "longitudine": "7.207948649302125",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 900,
+            "text": "Rif. V. Sella",
+            "rank": 12,
+            "quota": "2585",
+            "dislivello": "8772",
+            "distanza": "95003",
+            "latitudine": "45.58021822012961",
+            "longitudine": "7.303354740142822",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 972,
+            "text": "Cogne IN",
+            "rank": 13,
+            "quota": "1536",
+            "dislivello": "8887",
+            "distanza": "103817",
+            "latitudine": "45.61084879562259",
+            "longitudine": "7.354692807421088",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 988,
+            "text": "Cogne OUT",
+            "rank": 14,
+            "quota": "1536",
+            "dislivello": "8887",
+            "distanza": "103817",
+            "latitudine": "45.61084879562259",
+            "longitudine": "7.354692807421088",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 904,
+            "text": "Goilles Dessous",
+            "rank": 15,
+            "quota": "1837",
+            "dislivello": "9335",
+            "distanza": "109536",
+            "latitudine": "45.59762994758785",
+            "longitudine": "7.410100875422359",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 907,
+            "text": "Rif. Dondena",
+            "rank": 16,
+            "quota": "2193",
+            "dislivello": "10462",
+            "distanza": "125676",
+            "latitudine": "45.61209786683321",
+            "longitudine": "7.551273666322231",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 908,
+            "text": "Chardonney",
+            "rank": 17,
+            "quota": "1442",
+            "dislivello": "10534",
+            "distanza": "131333",
+            "latitudine": "45.621156273409724",
+            "longitudine": "7.60749083943665",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 997,
+            "text": "Pontboset",
+            "rank": 18,
+            "quota": "782",
+            "dislivello": "10745",
+            "distanza": "139044",
+            "latitudine": "45.607895851135254",
+            "longitudine": "7.685664240270853",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 976,
+            "text": "Donnas IN",
+            "rank": 19,
+            "quota": "322",
+            "dislivello": "11369",
+            "distanza": "149412",
+            "latitudine": "45.60411661863327",
+            "longitudine": "7.774810558184981",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 998,
+            "text": "Donnas OUT",
+            "rank": 20,
+            "quota": "322",
+            "dislivello": "11369",
+            "distanza": "149412",
+            "latitudine": "45.60411661863327",
+            "longitudine": "7.774810558184981",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 912,
+            "text": "Perloz",
+            "rank": 21,
+            "quota": "649",
+            "dislivello": "11975",
+            "distanza": "155189",
+            "latitudine": "45.61444538645446",
+            "longitudine": "7.808909816667438",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 914,
+            "text": "La Sassa",
+            "rank": 22,
+            "quota": "1440",
+            "dislivello": "13174",
+            "distanza": "162471",
+            "latitudine": "45.62222622334957",
+            "longitudine": "7.864480325952172",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 916,
+            "text": "Rif. Coda",
+            "rank": 23,
+            "quota": "2253",
+            "dislivello": "14030",
+            "distanza": "166881",
+            "latitudine": "45.62236008234322",
+            "longitudine": "7.90655605494976",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 918,
+            "text": "Rif. Barma",
+            "rank": 24,
+            "quota": "2049",
+            "dislivello": "14676",
+            "distanza": "175165",
+            "latitudine": "45.6444320641458",
+            "longitudine": "7.929569995030761",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 999,
+            "text": "Lago Chiaro",
+            "rank": 25,
+            "quota": "2091",
+            "dislivello": "15174",
+            "distanza": "180449",
+            "latitudine": "45.67397433333099",
+            "longitudine": "7.902889056131244",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 922,
+            "text": "Colle della Vecchia",
+            "rank": 26,
+            "quota": "2196",
+            "dislivello": "15714",
+            "distanza": "184435",
+            "latitudine": "45.693443566560745",
+            "longitudine": "7.907114373520017",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 923,
+            "text": "Niel - La Gruba",
+            "rank": 27,
+            "quota": "1556",
+            "dislivello": "16057",
+            "distanza": "189990",
+            "latitudine": "45.71845239959657",
+            "longitudine": "7.903305049985647",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 925,
+            "text": "Bl\u00e9ck\u00e9n\u00e9 - L\u00f2\u00f2",
+            "rank": 28,
+            "quota": "2061",
+            "dislivello": "16898",
+            "distanza": "196176",
+            "latitudine": "45.74641803279519",
+            "longitudine": "7.891973974183202",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 977,
+            "text": "Gressoney IN",
+            "rank": 29,
+            "quota": "1377",
+            "dislivello": "16990",
+            "distanza": "203287",
+            "latitudine": "45.76651389710605",
+            "longitudine": "7.835248690098524",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 1000,
+            "text": "Gressoney OUT",
+            "rank": 30,
+            "quota": "1377",
+            "dislivello": "16990",
+            "distanza": "203287",
+            "latitudine": "45.76651389710605",
+            "longitudine": "7.835248690098524",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 927,
+            "text": "Rif. Alpenzu",
+            "rank": 31,
+            "quota": "1776",
+            "dislivello": "17487",
+            "distanza": "208333",
+            "latitudine": "45.79900315962732",
+            "longitudine": "7.816473562270403",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 930,
+            "text": "Champoluc",
+            "rank": 32,
+            "quota": "1575",
+            "dislivello": "18586",
+            "distanza": "220155",
+            "latitudine": "45.83962253294885",
+            "longitudine": "7.732287738472223",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 932,
+            "text": "Rif. Grand Tournalin",
+            "rank": 33,
+            "quota": "2552",
+            "dislivello": "19570",
+            "distanza": "227937",
+            "latitudine": "45.85845599882305",
+            "longitudine": "7.69389795139432",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 985,
+            "text": "Valtournenche IN",
+            "rank": 34,
+            "quota": "1504",
+            "dislivello": "19897",
+            "distanza": "236749",
+            "latitudine": "45.875320388004184",
+            "longitudine": "7.623492144048214",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 1001,
+            "text": "Valtournenche OUT",
+            "rank": 35,
+            "quota": "1504",
+            "dislivello": "19897",
+            "distanza": "236749",
+            "latitudine": "45.875320388004184",
+            "longitudine": "7.623492144048214",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 937,
+            "text": "Rif. Barmasse",
+            "rank": 36,
+            "quota": "2173",
+            "dislivello": "20702",
+            "distanza": "241621",
+            "latitudine": "45.87663131766021",
+            "longitudine": "7.593541759997606",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 939,
+            "text": "Bivacco Vareton",
+            "rank": 37,
+            "quota": "2272",
+            "dislivello": "21085",
+            "distanza": "246622",
+            "latitudine": "45.85716292262077",
+            "longitudine": "7.572693200781941",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 941,
+            "text": "Rif. Magi\u00e0",
+            "rank": 38,
+            "quota": "1996",
+            "dislivello": "21687",
+            "distanza": "255059",
+            "latitudine": "45.8404107671231",
+            "longitudine": "7.508304007351398",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 992,
+            "text": "Rif. Cun\u00e9y",
+            "rank": 39,
+            "quota": "2655",
+            "dislivello": "22349",
+            "distanza": "258509",
+            "latitudine": "45.841585993766785",
+            "longitudine": "7.484478028491139",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 944,
+            "text": "Bivacco R. Clermont",
+            "rank": 40,
+            "quota": "2705",
+            "dislivello": "22714",
+            "distanza": "263095",
+            "latitudine": "45.82733474671841",
+            "longitudine": "7.458039745688438",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 946,
+            "text": "Oyace IN",
+            "rank": 41,
+            "quota": "1351",
+            "dislivello": "22952",
+            "distanza": "273903",
+            "latitudine": "45.85044273175299",
+            "longitudine": "7.381291771307588",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 947,
+            "text": "Bruson Arp",
+            "rank": 42,
+            "quota": "2188",
+            "dislivello": "23835",
+            "distanza": "277925",
+            "latitudine": "45.85165626369417",
+            "longitudine": "7.348730675876141",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 948,
+            "text": "Col Brison",
+            "rank": 43,
+            "quota": "2519",
+            "dislivello": "24195",
+            "distanza": "279544",
+            "latitudine": "45.85393932648003",
+            "longitudine": "7.334140967577696",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 949,
+            "text": "Berrio Damon",
+            "rank": 44,
+            "quota": "1936",
+            "dislivello": "24260",
+            "distanza": "281973",
+            "latitudine": "45.86313972249627",
+            "longitudine": "7.319171223789454",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 950,
+            "text": "Ollomont IN",
+            "rank": 45,
+            "quota": "1384",
+            "dislivello": "24335",
+            "distanza": "285745",
+            "latitudine": "45.8536334708333",
+            "longitudine": "7.304531140252948",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 989,
+            "text": "Ollomont OUT",
+            "rank": 46,
+            "quota": "1384",
+            "dislivello": "24335",
+            "distanza": "285745",
+            "latitudine": "45.8536334708333",
+            "longitudine": "7.304531140252948",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 951,
+            "text": "Rif. Champillon",
+            "rank": 47,
+            "quota": "2422",
+            "dislivello": "25384",
+            "distanza": "290385",
+            "latitudine": "45.84997954778373",
+            "longitudine": "7.269132686778903",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 953,
+            "text": "Ponteille",
+            "rank": 48,
+            "quota": "1880",
+            "dislivello": "25783",
+            "distanza": "296940",
+            "latitudine": "45.84586847573519",
+            "longitudine": "7.230759747326374",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 955,
+            "text": "Bosses",
+            "rank": 49,
+            "quota": "1526",
+            "dislivello": "26050",
+            "distanza": "307039",
+            "latitudine": "45.82166816107929",
+            "longitudine": "7.17918673530221",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 957,
+            "text": "Rif. Frassati",
+            "rank": 50,
+            "quota": "2544",
+            "dislivello": "27165",
+            "distanza": "316135",
+            "latitudine": "45.84089767187834",
+            "longitudine": "7.096954816952348",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 663,
+            "text": "Rif. Bonatti",
+            "rank": 51,
+            "quota": "2026",
+            "dislivello": "27558",
+            "distanza": "323780",
+            "latitudine": "45.846702978014946",
+            "longitudine": "7.033366346731782",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 667,
+            "text": "Rif. Bertone",
+            "rank": 52,
+            "quota": "1993",
+            "dislivello": "27924",
+            "distanza": "331217",
+            "latitudine": "45.8093429915607",
+            "longitudine": "6.978785824030638",
+            "pid": null,
+            "postazione_nascosta": false
+        },
+        {
+            "id": 994,
+            "text": "Parco Bollino",
+            "rank": 53,
+            "quota": "1230",
+            "dislivello": "27958",
+            "distanza": "335632",
+            "latitudine": "45.79005748964846",
+            "longitudine": "6.973357368260622",
+            "pid": null,
+            "postazione_nascosta": null
+        },
+        {
+            "id": 668,
+            "text": "FINISH",
+            "rank": 54,
+            "quota": "1230",
+            "dislivello": "27958",
+            "distanza": "335632",
+            "latitudine": "45.79005748964846",
+            "longitudine": "6.973357368260622",
+            "pid": null,
+            "postazione_nascosta": false
+        }
+    ]
+}
